@@ -2,7 +2,6 @@ package edu.hanover.joke;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.util.Log;
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
